@@ -1,0 +1,28 @@
+    <HTML>
+    <HEAD>
+    <TITLE>System Information Report For maksim-VirtualBox</TITLE>
+    </HEAD>
+    <BODY>
+    <H1>System Information Report For maksim-VirtualBox</H1>
+    <P>Generated 08.10.2023 07:31:33  +03, by maksim</P>
+        <H2>System Uptime</H2>
+    <PRE> 19:31:40 up 48 min,  1 user,  load average: 0,50, 0,35, 0,33</PRE>
+        <H2>Disk Space Utilization</H2>
+    <PRE>Файл.система   Размер Использовано  Дост Использовано% Cмонтировано в
+tmpfs            392M         1,3M  391M            1% /run
+/dev/sda3         24G          13G   11G           54% /
+tmpfs            2,0G            0  2,0G            0% /dev/shm
+tmpfs            5,0M         4,0K  5,0M            1% /run/lock
+/dev/sda2        512M         6,1M  506M            2% /boot/efi
+SP               932G         524G  408G           57% /media/sf_SP
+tmpfs            392M         1,7M  390M            1% /run/user/1000
+/dev/sr0          52M          52M     0          100% /media/maksim/VBox_GAs_7.0.10</PRE>
+    <H2>Home Space Utilization (maksim)</H2>
+<H3>/home/maksim</H3>
+<PRE>
+    Dirs     Files      Size
+    ----     -----      ----
+     805      7118          
+</PRE>
+    </BODY>
+    </HTML>
