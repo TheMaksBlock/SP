@@ -29,7 +29,7 @@ int main()
     // Redirect stdout to the file
     streambuf *original_stdout = cout.rdbuf(file.rdbuf());
 
-    cout << getInfo();
+    cout<<getInfo();
 
     // Restore stdout
     cout.rdbuf(original_stdout);
